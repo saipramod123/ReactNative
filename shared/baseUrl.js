@@ -1,0 +1,1 @@
+export const baseUrl = 'http://fuzzy-bear-43.serverless.social/';

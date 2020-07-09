@@ -1,1 +1,1 @@
-export const baseUrl = 'http://fuzzy-bear-43.serverless.social/';
+export const baseUrl = 'http://mighty-goose-99.serverless.social/' ;
